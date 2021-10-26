@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Regina M and I'm a software engineer and facilitator. Online you can find me hanging out at [Chingu](https://chingu.io) and [YearOne](https://www.joinyearone.io/).
+I'm Regina M and I'm a software engineer and facilitator. I love living in the California high desert and enjoying its mountains. Online you can find me hanging out at [Chingu](https://chingu.io) and [YearOne](https://www.joinyearone.io/).
 
 ## Github Stats
 
